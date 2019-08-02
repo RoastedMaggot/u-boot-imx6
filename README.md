@@ -1,5 +1,5 @@
 u-boot-imx
-==========
+==========so what
 
 This repository is used to track U-Boot for our i.MX6 based boards:
 
